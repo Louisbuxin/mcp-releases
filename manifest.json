@@ -1,4 +1,23 @@
 {
-  "apps": {},
-  "updated": "2026-11-25T20:42:40.588Z"
+  "apps": {
+    "launcher": {
+      "name": "MCP-Launcher",
+      "version": "0.3.0",
+      "date": "2026-11-25",
+      "page": "https://github.com/Louisbuxin/mcp-releases/releases/tag/launcher-v0.3.0",
+      "assets": {
+        "mac-arm64": "https://github.com/Louisbuxin/mcp-releases/releases/download/launcher-v0.3.0/MCP-Launcher-0.3.0-arm64.dmg",
+        "mac-x64": "https://github.com/Louisbuxin/mcp-releases/releases/download/launcher-v0.3.0/MCP-Launcher-0.3.0-x64.dmg",
+        "win-x64": "https://github.com/Louisbuxin/mcp-releases/releases/download/launcher-v0.3.0/MCP-Launcher-0.3.0-x64.exe"
+      },
+      "history": [
+        {
+          "version": "0.3.0",
+          "date": "2026-11-25",
+          "page": "https://github.com/Louisbuxin/mcp-releases/releases/tag/launcher-v0.3.0"
+        }
+      ]
+    }
+  },
+  "updated": "2026-11-25T20:43:51.477Z"
 }
