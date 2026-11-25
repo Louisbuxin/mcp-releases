@@ -44,7 +44,34 @@
           "page": "https://github.com/Louisbuxin/mcp-releases/releases/tag/cam-v0.1.0"
         }
       ]
+    },
+    "scope": {
+      "name": "MCP-CAM-SCOPE",
+      "version": "0.1.0",
+      "date": "2026-11-25",
+      "page": "https://github.com/Louisbuxin/mcp-releases/releases/tag/scope-v0.1.0",
+      "assets": {
+        "mac-arm64": "https://github.com/Louisbuxin/mcp-releases/releases/download/scope-v0.1.0/MCP-CAM-SCOPE-0.1.0-arm64.dmg",
+        "mac-x64": "https://github.com/Louisbuxin/mcp-releases/releases/download/scope-v0.1.0/MCP-CAM-SCOPE-0.1.0.dmg"
+      },
+      "docs": {
+        "presentation": {
+          "fr": "https://github.com/Louisbuxin/mcp-releases/releases/download/scope-v0.1.0/MCP-CAM-SCOPE-Presentation-FR.pdf",
+          "en": "https://github.com/Louisbuxin/mcp-releases/releases/download/scope-v0.1.0/MCP-CAM-SCOPE-Presentation-EN.pdf"
+        },
+        "manual": {
+          "fr": "https://github.com/Louisbuxin/mcp-releases/releases/download/scope-v0.1.0/MCP-CAM-SCOPE-Manuel.pdf",
+          "en": "https://github.com/Louisbuxin/mcp-releases/releases/download/scope-v0.1.0/MCP-CAM-SCOPE-Manual-EN.pdf"
+        }
+      },
+      "history": [
+        {
+          "version": "0.1.0",
+          "date": "2026-11-25",
+          "page": "https://github.com/Louisbuxin/mcp-releases/releases/tag/scope-v0.1.0"
+        }
+      ]
     }
   },
-  "updated": "2026-11-25T20:44:51.791Z"
+  "updated": "2026-11-25T20:45:43.004Z"
 }
