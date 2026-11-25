@@ -204,6 +204,16 @@
         "mac-x64": "https://github.com/Louisbuxin/mcp-releases/releases/download/prompt-v0.1.0/MCP-Prompt-0.1.0-x64.dmg",
         "win-x64": "https://github.com/Louisbuxin/mcp-releases/releases/download/prompt-v0.1.0/MCP-Prompt-0.1.0-x64.exe"
       },
+      "docs": {
+        "presentation": {
+          "fr": "https://github.com/Louisbuxin/mcp-releases/releases/download/prompt-v0.1.0/MCP-Prompt-Presentation-FR.pdf",
+          "en": "https://github.com/Louisbuxin/mcp-releases/releases/download/prompt-v0.1.0/MCP-Prompt-Presentation-EN.pdf"
+        },
+        "manual": {
+          "fr": "https://github.com/Louisbuxin/mcp-releases/releases/download/prompt-v0.1.0/MCP-Prompt-Manuel.pdf",
+          "en": "https://github.com/Louisbuxin/mcp-releases/releases/download/prompt-v0.1.0/MCP-Prompt-Manual-EN.pdf"
+        }
+      },
       "history": [
         {
           "version": "0.1.0",
@@ -213,5 +223,5 @@
       ]
     }
   },
-  "updated": "2026-11-25T22:29:43.692Z"
+  "updated": "2026-11-25T22:31:04.530Z"
 }
