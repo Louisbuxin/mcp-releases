@@ -155,7 +155,35 @@
           "page": "https://github.com/Louisbuxin/mcp-releases/releases/tag/prez-v1.1.0"
         }
       ]
+    },
+    "prez-agent": {
+      "name": "MCP-Prez Agent",
+      "version": "1.1.0",
+      "date": "2026-11-25",
+      "page": "https://github.com/Louisbuxin/mcp-releases/releases/tag/prez-agent-v1.1.0",
+      "assets": {
+        "win-x64": "https://github.com/Louisbuxin/mcp-releases/releases/download/prez-agent-v1.1.0/MCP-Prez_Agent-Setup.exe",
+        "mac-arm64": "https://github.com/Louisbuxin/mcp-releases/releases/download/prez-agent-v1.1.0/MCP-Prez_Agent-macOS-arm64.pkg",
+        "mac-x64": "https://github.com/Louisbuxin/mcp-releases/releases/download/prez-agent-v1.1.0/MCP-Prez_Agent-macOS-x64.pkg"
+      },
+      "docs": {
+        "presentation": {
+          "fr": "https://github.com/Louisbuxin/mcp-releases/releases/download/prez-agent-v1.1.0/MCP-Prez-Presentation-FR.pdf",
+          "en": "https://github.com/Louisbuxin/mcp-releases/releases/download/prez-agent-v1.1.0/MCP-Prez-Presentation-EN.pdf"
+        },
+        "manual": {
+          "fr": "https://github.com/Louisbuxin/mcp-releases/releases/download/prez-agent-v1.1.0/MCP-Prez-Manuel.pdf",
+          "en": "https://github.com/Louisbuxin/mcp-releases/releases/download/prez-agent-v1.1.0/MCP-Prez-Manual-EN.pdf"
+        }
+      },
+      "history": [
+        {
+          "version": "1.1.0",
+          "date": "2026-11-25",
+          "page": "https://github.com/Louisbuxin/mcp-releases/releases/tag/prez-agent-v1.1.0"
+        }
+      ]
     }
   },
-  "updated": "2026-11-25T20:56:37.095Z"
+  "updated": "2026-11-25T20:57:14.608Z"
 }
