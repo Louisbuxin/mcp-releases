@@ -71,7 +71,35 @@
           "page": "https://github.com/Louisbuxin/mcp-releases/releases/tag/scope-v0.1.0"
         }
       ]
+    },
+    "proj": {
+      "name": "MCP-Proj",
+      "version": "0.1.0",
+      "date": "2026-11-25",
+      "page": "https://github.com/Louisbuxin/mcp-releases/releases/tag/proj-v0.1.0",
+      "assets": {
+        "mac-arm64": "https://github.com/Louisbuxin/mcp-releases/releases/download/proj-v0.1.0/MCP-Proj-0.1.0-arm64.dmg",
+        "mac-x64": "https://github.com/Louisbuxin/mcp-releases/releases/download/proj-v0.1.0/MCP-Proj-0.1.0-x64.dmg",
+        "win-x64": "https://github.com/Louisbuxin/mcp-releases/releases/download/proj-v0.1.0/MCP-Proj-0.1.0-x64.exe"
+      },
+      "docs": {
+        "presentation": {
+          "fr": "https://github.com/Louisbuxin/mcp-releases/releases/download/proj-v0.1.0/MCP-Proj-Presentation-FR.pdf",
+          "en": "https://github.com/Louisbuxin/mcp-releases/releases/download/proj-v0.1.0/MCP-Proj-Presentation-EN.pdf"
+        },
+        "manual": {
+          "fr": "https://github.com/Louisbuxin/mcp-releases/releases/download/proj-v0.1.0/MCP-Proj-Manuel.pdf",
+          "en": "https://github.com/Louisbuxin/mcp-releases/releases/download/proj-v0.1.0/MCP-Proj-Manual-EN.pdf"
+        }
+      },
+      "history": [
+        {
+          "version": "0.1.0",
+          "date": "2026-11-25",
+          "page": "https://github.com/Louisbuxin/mcp-releases/releases/tag/proj-v0.1.0"
+        }
+      ]
     }
   },
-  "updated": "2026-11-25T20:45:43.004Z"
+  "updated": "2026-11-25T20:46:56.202Z"
 }
