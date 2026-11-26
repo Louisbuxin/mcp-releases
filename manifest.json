@@ -65,33 +65,39 @@
     },
     "cam": {
       "name": "MCP-Cam",
-      "version": "0.1.0",
-      "date": "2026-11-25",
-      "page": "https://github.com/Louisbuxin/mcp-releases/releases/tag/cam-v0.1.0",
+      "version": "0.1.1",
+      "date": "2026-11-26",
+      "page": "https://github.com/Louisbuxin/mcp-releases/releases/tag/cam-v0.1.1",
       "assets": {
-        "mac-arm64": "https://github.com/Louisbuxin/mcp-releases/releases/download/cam-v0.1.0/MCP-Cam-0.1.0-arm64.dmg",
-        "mac-x64": "https://github.com/Louisbuxin/mcp-releases/releases/download/cam-v0.1.0/MCP-Cam-0.1.0.dmg"
+        "mac-arm64": "https://github.com/Louisbuxin/mcp-releases/releases/download/cam-v0.1.1/MCP-Cam-0.1.1-arm64.dmg",
+        "win-x64": "https://github.com/Louisbuxin/mcp-releases/releases/download/cam-v0.1.1/MCP-Cam-0.1.1-x64.exe",
+        "mac-x64": "https://github.com/Louisbuxin/mcp-releases/releases/download/cam-v0.1.1/MCP-Cam-0.1.1.dmg"
       },
       "docs": {
         "presentation": {
-          "fr": "https://github.com/Louisbuxin/mcp-releases/releases/download/cam-v0.1.0/MCP-Cam-Presentation-FR.pdf",
-          "en": "https://github.com/Louisbuxin/mcp-releases/releases/download/cam-v0.1.0/MCP-Cam-Presentation-EN.pdf"
+          "fr": "https://github.com/Louisbuxin/mcp-releases/releases/download/cam-v0.1.1/MCP-Cam-Presentation-FR.pdf",
+          "en": "https://github.com/Louisbuxin/mcp-releases/releases/download/cam-v0.1.1/MCP-Cam-Presentation-EN.pdf"
         },
         "manual": {
-          "fr": "https://github.com/Louisbuxin/mcp-releases/releases/download/cam-v0.1.0/MCP-Cam-Manuel.pdf",
-          "en": "https://github.com/Louisbuxin/mcp-releases/releases/download/cam-v0.1.0/MCP-Cam-Manual-EN.pdf"
+          "fr": "https://github.com/Louisbuxin/mcp-releases/releases/download/cam-v0.1.1/MCP-Cam-Manuel.pdf",
+          "en": "https://github.com/Louisbuxin/mcp-releases/releases/download/cam-v0.1.1/MCP-Cam-Manual-EN.pdf"
         }
       },
+      "companion": {
+        "url": "https://github.com/Louisbuxin/mcp-releases/releases/download/cam-v0.1.1/monochrome-mcp-cam-1.0.0.tgz"
+      },
       "history": [
+        {
+          "version": "0.1.1",
+          "date": "2026-11-26",
+          "page": "https://github.com/Louisbuxin/mcp-releases/releases/tag/cam-v0.1.1"
+        },
         {
           "version": "0.1.0",
           "date": "2026-11-25",
           "page": "https://github.com/Louisbuxin/mcp-releases/releases/tag/cam-v0.1.0"
         }
-      ],
-      "companion": {
-        "url": "https://github.com/Louisbuxin/mcp-releases/releases/download/cam-v0.1.0/monochrome-mcp-cam-1.0.0.tgz"
-      }
+      ]
     },
     "scope": {
       "name": "MCP-CAM-SCOPE",
@@ -325,5 +331,5 @@
       ]
     }
   },
-  "updated": "2026-11-26T15:27:20.939Z"
+  "updated": "2026-11-26T19:14:11.692Z"
 }
