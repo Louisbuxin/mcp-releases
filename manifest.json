@@ -230,34 +230,39 @@
     },
     "prompt": {
       "name": "MCP-Prompt",
-      "version": "0.1.0",
-      "date": "2026-11-25",
-      "page": "https://github.com/Louisbuxin/mcp-releases/releases/tag/prompt-v0.1.0",
+      "version": "0.2.0",
+      "date": "2026-11-26",
+      "page": "https://github.com/Louisbuxin/mcp-releases/releases/tag/prompt-v0.2.0",
       "assets": {
-        "mac-arm64": "https://github.com/Louisbuxin/mcp-releases/releases/download/prompt-v0.1.0/MCP-Prompt-0.1.0-arm64.dmg",
-        "mac-x64": "https://github.com/Louisbuxin/mcp-releases/releases/download/prompt-v0.1.0/MCP-Prompt-0.1.0-x64.dmg",
-        "win-x64": "https://github.com/Louisbuxin/mcp-releases/releases/download/prompt-v0.1.0/MCP-Prompt-0.1.0-x64.exe"
+        "mac-arm64": "https://github.com/Louisbuxin/mcp-releases/releases/download/prompt-v0.2.0/MCP-Prompt-0.2.0-arm64.dmg",
+        "mac-x64": "https://github.com/Louisbuxin/mcp-releases/releases/download/prompt-v0.2.0/MCP-Prompt-0.2.0-x64.dmg",
+        "win-x64": "https://github.com/Louisbuxin/mcp-releases/releases/download/prompt-v0.2.0/MCP-Prompt-0.2.0-x64.exe"
       },
       "docs": {
         "presentation": {
-          "fr": "https://github.com/Louisbuxin/mcp-releases/releases/download/prompt-v0.1.0/MCP-Prompt-Presentation-FR.pdf",
-          "en": "https://github.com/Louisbuxin/mcp-releases/releases/download/prompt-v0.1.0/MCP-Prompt-Presentation-EN.pdf"
+          "fr": "https://github.com/Louisbuxin/mcp-releases/releases/download/prompt-v0.2.0/MCP-Prompt-Presentation-FR.pdf",
+          "en": "https://github.com/Louisbuxin/mcp-releases/releases/download/prompt-v0.2.0/MCP-Prompt-Presentation-EN.pdf"
         },
         "manual": {
-          "fr": "https://github.com/Louisbuxin/mcp-releases/releases/download/prompt-v0.1.0/MCP-Prompt-Manuel.pdf",
-          "en": "https://github.com/Louisbuxin/mcp-releases/releases/download/prompt-v0.1.0/MCP-Prompt-Manual-EN.pdf"
+          "fr": "https://github.com/Louisbuxin/mcp-releases/releases/download/prompt-v0.2.0/MCP-Prompt-Manuel.pdf",
+          "en": "https://github.com/Louisbuxin/mcp-releases/releases/download/prompt-v0.2.0/MCP-Prompt-Manual-EN.pdf"
         }
       },
+      "companion": {
+        "url": "https://github.com/Louisbuxin/mcp-releases/releases/download/prompt-v0.2.0/monochrome-mcp-prompt-1.0.0.tgz"
+      },
       "history": [
+        {
+          "version": "0.2.0",
+          "date": "2026-11-26",
+          "page": "https://github.com/Louisbuxin/mcp-releases/releases/tag/prompt-v0.2.0"
+        },
         {
           "version": "0.1.0",
           "date": "2026-11-25",
           "page": "https://github.com/Louisbuxin/mcp-releases/releases/tag/prompt-v0.1.0"
         }
-      ],
-      "companion": {
-        "url": "https://github.com/Louisbuxin/mcp-releases/releases/download/prompt-v0.1.0/monochrome-mcp-prompt-1.0.0.tgz"
-      }
+      ]
     },
     "com": {
       "name": "MCP-COM",
@@ -279,5 +284,5 @@
       ]
     }
   },
-  "updated": "2026-11-26T13:38:21.019Z"
+  "updated": "2026-11-26T14:06:05.664Z"
 }
