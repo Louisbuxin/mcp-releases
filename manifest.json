@@ -2,15 +2,20 @@
   "apps": {
     "launcher": {
       "name": "MCP-Launcher",
-      "version": "0.6.0",
+      "version": "0.7.0",
       "date": "2026-11-26",
-      "page": "https://github.com/Louisbuxin/mcp-releases/releases/tag/launcher-v0.6.0",
+      "page": "https://github.com/Louisbuxin/mcp-releases/releases/tag/launcher-v0.7.0",
       "assets": {
-        "mac-arm64": "https://github.com/Louisbuxin/mcp-releases/releases/download/launcher-v0.6.0/MCP-Launcher-0.6.0-arm64.dmg",
-        "mac-x64": "https://github.com/Louisbuxin/mcp-releases/releases/download/launcher-v0.6.0/MCP-Launcher-0.6.0-x64.dmg",
-        "win-x64": "https://github.com/Louisbuxin/mcp-releases/releases/download/launcher-v0.6.0/MCP-Launcher-0.6.0-x64.exe"
+        "mac-arm64": "https://github.com/Louisbuxin/mcp-releases/releases/download/launcher-v0.7.0/MCP-Launcher-0.7.0-arm64.dmg",
+        "mac-x64": "https://github.com/Louisbuxin/mcp-releases/releases/download/launcher-v0.7.0/MCP-Launcher-0.7.0-x64.dmg",
+        "win-x64": "https://github.com/Louisbuxin/mcp-releases/releases/download/launcher-v0.7.0/MCP-Launcher-0.7.0-x64.exe"
       },
       "history": [
+        {
+          "version": "0.7.0",
+          "date": "2026-11-26",
+          "page": "https://github.com/Louisbuxin/mcp-releases/releases/tag/launcher-v0.7.0"
+        },
         {
           "version": "0.6.0",
           "date": "2026-11-26",
@@ -274,5 +279,5 @@
       ]
     }
   },
-  "updated": "2026-11-26T13:37:14.438Z"
+  "updated": "2026-11-26T13:38:21.019Z"
 }
