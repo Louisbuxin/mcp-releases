@@ -292,27 +292,32 @@
     },
     "com": {
       "name": "MCP-COM",
-      "version": "0.1.7",
+      "version": "0.1.11",
       "date": "2026-11-26",
-      "page": "https://github.com/Louisbuxin/mcp-releases/releases/tag/com-v0.1.7",
+      "page": "https://github.com/Louisbuxin/mcp-releases/releases/tag/com-v0.1.11",
       "assets": {
-        "mac-arm64": "https://github.com/Louisbuxin/mcp-releases/releases/download/com-v0.1.7/MCP-COM-0.1.7-arm64.dmg",
-        "win-x64": "https://github.com/Louisbuxin/mcp-releases/releases/download/com-v0.1.7/MCP-COM-Setup-0.1.7-x64.exe"
+        "mac-arm64": "https://github.com/Louisbuxin/mcp-releases/releases/download/com-v0.1.11/MCP-COM-0.1.11-arm64.dmg",
+        "win-x64": "https://github.com/Louisbuxin/mcp-releases/releases/download/com-v0.1.11/MCP-COM-Setup-0.1.11-x64.exe"
       },
       "docs": {
         "presentation": {
-          "fr": "https://github.com/Louisbuxin/mcp-releases/releases/download/com-v0.1.7/MCP-COM-Presentation-FR.pdf",
-          "en": "https://github.com/Louisbuxin/mcp-releases/releases/download/com-v0.1.7/MCP-COM-Presentation-EN.pdf"
+          "fr": "https://github.com/Louisbuxin/mcp-releases/releases/download/com-v0.1.11/MCP-COM-Presentation-FR.pdf",
+          "en": "https://github.com/Louisbuxin/mcp-releases/releases/download/com-v0.1.11/MCP-COM-Presentation-EN.pdf"
         },
         "manual": {
-          "fr": "https://github.com/Louisbuxin/mcp-releases/releases/download/com-v0.1.7/MCP-COM-Manuel.pdf",
-          "en": "https://github.com/Louisbuxin/mcp-releases/releases/download/com-v0.1.7/MCP-COM-Manual-EN.pdf"
+          "fr": "https://github.com/Louisbuxin/mcp-releases/releases/download/com-v0.1.11/MCP-COM-Manuel.pdf",
+          "en": "https://github.com/Louisbuxin/mcp-releases/releases/download/com-v0.1.11/MCP-COM-Manual-EN.pdf"
         }
       },
       "companion": {
-        "url": "https://github.com/Louisbuxin/mcp-releases/releases/download/com-v0.1.7/monochrome-mcp-com-0.1.0.tgz"
+        "url": "https://github.com/Louisbuxin/mcp-releases/releases/download/com-v0.1.11/monochrome-mcp-com-0.1.0.tgz"
       },
       "history": [
+        {
+          "version": "0.1.11",
+          "date": "2026-11-26",
+          "page": "https://github.com/Louisbuxin/mcp-releases/releases/tag/com-v0.1.11"
+        },
         {
           "version": "0.1.7",
           "date": "2026-11-26",
@@ -336,5 +341,5 @@
       ]
     }
   },
-  "updated": "2026-11-26T19:15:23.840Z"
+  "updated": "2026-11-26T19:38:41.332Z"
 }
