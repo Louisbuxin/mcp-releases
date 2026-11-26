@@ -179,7 +179,10 @@
           "date": "2026-11-25",
           "page": "https://github.com/Louisbuxin/mcp-releases/releases/tag/prez-v1.1.0"
         }
-      ]
+      ],
+      "companion": {
+        "url": "https://github.com/Louisbuxin/mcp-releases/releases/download/prez-v1.1.0/monochrome-mcp-prez-1.0.0.tgz"
+      }
     },
     "prez-agent": {
       "name": "MCP-Prez Agent",
@@ -238,5 +241,5 @@
       ]
     }
   },
-  "updated": "2026-11-26T01:24:44.681Z"
+  "updated": "2026-11-26T01:40:58.930Z"
 }
