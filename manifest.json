@@ -84,25 +84,30 @@
     },
     "proj": {
       "name": "MCP-Proj",
-      "version": "0.1.0",
-      "date": "2026-11-25",
-      "page": "https://github.com/Louisbuxin/mcp-releases/releases/tag/proj-v0.1.0",
+      "version": "0.2.0",
+      "date": "2026-11-26",
+      "page": "https://github.com/Louisbuxin/mcp-releases/releases/tag/proj-v0.2.0",
       "assets": {
-        "mac-arm64": "https://github.com/Louisbuxin/mcp-releases/releases/download/proj-v0.1.0/MCP-Proj-0.1.0-arm64.dmg",
-        "mac-x64": "https://github.com/Louisbuxin/mcp-releases/releases/download/proj-v0.1.0/MCP-Proj-0.1.0-x64.dmg",
-        "win-x64": "https://github.com/Louisbuxin/mcp-releases/releases/download/proj-v0.1.0/MCP-Proj-0.1.0-x64.exe"
+        "mac-arm64": "https://github.com/Louisbuxin/mcp-releases/releases/download/proj-v0.2.0/MCP-Proj-0.2.0-arm64.dmg",
+        "mac-x64": "https://github.com/Louisbuxin/mcp-releases/releases/download/proj-v0.2.0/MCP-Proj-0.2.0-x64.dmg",
+        "win-x64": "https://github.com/Louisbuxin/mcp-releases/releases/download/proj-v0.2.0/MCP-Proj-0.2.0-x64.exe"
       },
       "docs": {
         "presentation": {
-          "fr": "https://github.com/Louisbuxin/mcp-releases/releases/download/proj-v0.1.0/MCP-Proj-Presentation-FR.pdf",
-          "en": "https://github.com/Louisbuxin/mcp-releases/releases/download/proj-v0.1.0/MCP-Proj-Presentation-EN.pdf"
+          "fr": "https://github.com/Louisbuxin/mcp-releases/releases/download/proj-v0.2.0/MCP-Proj-Presentation-FR.pdf",
+          "en": "https://github.com/Louisbuxin/mcp-releases/releases/download/proj-v0.2.0/MCP-Proj-Presentation-EN.pdf"
         },
         "manual": {
-          "fr": "https://github.com/Louisbuxin/mcp-releases/releases/download/proj-v0.1.0/MCP-Proj-Manuel.pdf",
-          "en": "https://github.com/Louisbuxin/mcp-releases/releases/download/proj-v0.1.0/MCP-Proj-Manual-EN.pdf"
+          "fr": "https://github.com/Louisbuxin/mcp-releases/releases/download/proj-v0.2.0/MCP-Proj-Manuel.pdf",
+          "en": "https://github.com/Louisbuxin/mcp-releases/releases/download/proj-v0.2.0/MCP-Proj-Manual-EN.pdf"
         }
       },
       "history": [
+        {
+          "version": "0.2.0",
+          "date": "2026-11-26",
+          "page": "https://github.com/Louisbuxin/mcp-releases/releases/tag/proj-v0.2.0"
+        },
         {
           "version": "0.1.0",
           "date": "2026-11-25",
@@ -223,5 +228,5 @@
       ]
     }
   },
-  "updated": "2026-11-25T22:32:11.872Z"
+  "updated": "2026-11-26T01:14:34.708Z"
 }
