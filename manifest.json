@@ -271,16 +271,22 @@
     },
     "com": {
       "name": "MCP-COM",
-      "version": "0.1.4",
+      "version": "0.1.6",
       "date": "2026-11-26",
-      "page": "https://github.com/Louisbuxin/mcp-releases/releases/tag/com-v0.1.4",
+      "page": "https://github.com/Louisbuxin/mcp-releases/releases/tag/com-v0.1.6",
       "assets": {
-        "mac-arm64": "https://github.com/Louisbuxin/mcp-releases/releases/download/com-v0.1.4/MCP-COM-0.1.4-arm64.dmg"
+        "mac-arm64": "https://github.com/Louisbuxin/mcp-releases/releases/download/com-v0.1.6/MCP-COM-0.1.6-arm64.dmg",
+        "win-x64": "https://github.com/Louisbuxin/mcp-releases/releases/download/com-v0.1.6/MCP-COM-Setup-0.1.6-x64.exe"
       },
       "companion": {
-        "url": "https://github.com/Louisbuxin/mcp-releases/releases/download/com-v0.1.4/monochrome-mcp-com-0.1.0.tgz"
+        "url": "https://github.com/Louisbuxin/mcp-releases/releases/download/com-v0.1.6/monochrome-mcp-com-0.1.0.tgz"
       },
       "history": [
+        {
+          "version": "0.1.6",
+          "date": "2026-11-26",
+          "page": "https://github.com/Louisbuxin/mcp-releases/releases/tag/com-v0.1.6"
+        },
         {
           "version": "0.1.4",
           "date": "2026-11-26",
@@ -294,5 +300,5 @@
       ]
     }
   },
-  "updated": "2026-11-26T14:39:48.596Z"
+  "updated": "2026-11-26T14:40:48.344Z"
 }
