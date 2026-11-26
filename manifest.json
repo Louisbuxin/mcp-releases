@@ -126,7 +126,10 @@
           "date": "2026-11-25",
           "page": "https://github.com/Louisbuxin/mcp-releases/releases/tag/proj-v0.1.0"
         }
-      ]
+      ],
+      "companion": {
+        "url": "https://github.com/Louisbuxin/mcp-releases/releases/download/proj-v0.2.0/monochrome-mcp-proj-1.0.0.tgz"
+      }
     },
     "pattern": {
       "name": "MCP-Pattern",
@@ -247,5 +250,5 @@
       }
     }
   },
-  "updated": "2026-11-26T01:41:04.396Z"
+  "updated": "2026-11-26T01:41:07.287Z"
 }
