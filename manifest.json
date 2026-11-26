@@ -241,8 +241,11 @@
           "date": "2026-11-25",
           "page": "https://github.com/Louisbuxin/mcp-releases/releases/tag/prompt-v0.1.0"
         }
-      ]
+      ],
+      "companion": {
+        "url": "https://github.com/Louisbuxin/mcp-releases/releases/download/prompt-v0.1.0/monochrome-mcp-prompt-1.0.0.tgz"
+      }
     }
   },
-  "updated": "2026-11-26T01:41:01.691Z"
+  "updated": "2026-11-26T01:41:04.396Z"
 }
